@@ -158,3 +158,15 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+perch/lib64
+perch/pyvenv.cfg
+perch/bin/activate.csh
+perch/bin/activate
+perch/bin/activate.fish
+perch/bin/Activate.ps1
+perch/bin/pip
+perch/bin/pip3
+perch/bin/pip3.11
+perch/bin/python
+perch/bin/python3
+perch/bin/python3.11
